@@ -1,0 +1,7 @@
+@mixin paragraph($background-color, $color, $font-size, $border-radius, $padding) {
+  background-color: $background-color; 
+  color: $color; 
+  font-size: $font-size;
+  border-radius: $border-radius;
+  padding: $padding;
+}
