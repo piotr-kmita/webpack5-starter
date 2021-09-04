@@ -1,6 +1,6 @@
 # Webpack 5 starter
 
-Basic webpack 5 starter.
+Basic Webpack 5 starter.
 
 ## Installation
 npm install
